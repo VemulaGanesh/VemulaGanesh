@@ -1,1 +1,5 @@
-build a model to detect whether a sentence is sarcastic or not, using Bidirectional LSTMs
+This file contains two projects:
+
+1. First project is to build a classifier to check whether a review is positive or negative using imdb data.
+
+2. Second project is to build a model to detect whether a sentence is sarcastic or not, using Bidirectional LSTMs
