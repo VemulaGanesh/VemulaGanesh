@@ -1,0 +1,5 @@
+This file has two parts:
+
+1. To create a model which detects faces from screen shots from the movie scene
+
+2. To build a Face identification model to recognise human faces
